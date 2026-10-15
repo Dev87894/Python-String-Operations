@@ -38,14 +38,3 @@ print("user name is:",user_name)
 print("domain name is:",domain)
 
 
-# Home Work
-# text = "PythonProgramming"
-
-# Print the following using only slicing:
-
-# Python
-# Programming
-# Pto rgamn
-# gnimmargorPnohtyP
-# Every character except the last three.
-# Every second character in reverse order.
